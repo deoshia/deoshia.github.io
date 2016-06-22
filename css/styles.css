@@ -23,7 +23,7 @@ h5,
 h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  color: #000000;
+  color: #A9A9F5;
 }
 a {
   color: #3AAA64;
@@ -377,11 +377,11 @@ iframe {
 }
 .skills .skillset .level-bar {
   height: 15px;
-  background: #e8e8e8;
+  background: #FF8000;
 }
 .skills .skillset .level-bar-inner {
   height: 15px;
-  background: #66cb8c;
+  background: #A9A9F5;
 }
 /* Testimonials section */
 .testimonials .item {
