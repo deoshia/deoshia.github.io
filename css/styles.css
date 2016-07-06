@@ -87,7 +87,7 @@ a.btn-cta-secondary:hover,
   color: #fff;
 }
 .text-highlight {
-  color: #32383e;
+  color: #99FF1B;
 }
 .label-theme {
   background: #3AAA64;
@@ -95,7 +95,7 @@ a.btn-cta-secondary:hover,
 }
 a.dotted-link {
   border-bottom: 1px dotted #778492;
-  color: #778492;
+  color: #99FF1B;
 }
 a.dotted-link:hover {
   text-decoration: none;
