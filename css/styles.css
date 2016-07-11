@@ -60,7 +60,7 @@ a.btn:focus {
 }
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #54ba4e;
+  background: #FF8000;
   border: 1px solid #54ba4e;
   color: #fff;
   font-weight: 600;
@@ -173,7 +173,7 @@ iframe {
   margin-bottom: 30px;
 }
 .section .section-inner {
-  background: #000000;
+  background: #FF8000;
   padding: 30px;
 }
 .section .heading {
