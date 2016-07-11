@@ -9,7 +9,7 @@
 /* ======= Base ======= */
 body {
   font-family: 'Lato', arial, sans-serif;
-  color: #070719;
+  color: #9F81F7;
   background: #070719;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
@@ -95,11 +95,11 @@ a.btn-cta-secondary:hover,
 }
 a.dotted-link {
   border-bottom: 1px dotted #778492;
-  color: #99FF1B;
+  color: #A9A9F5;
 }
 a.dotted-link:hover {
   text-decoration: none;
-  color: #99FF1B;
+  color: #A9A9F5;
 }
 /*
 iframe {
