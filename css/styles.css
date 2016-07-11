@@ -391,13 +391,13 @@ iframe {
   margin-bottom: 0;
 }
 .testimonials .item .quote {
-  color: #99FF1B;
+  color: #FF8000;
   font-size: 16px;
   border-left-color: #9fdeb7;
   margin-bottom: 15px;
 }
 .testimonials .item .quote .fa {
-  color: #99FF1B;
+  color: #A9A9F5;
   margin-right: 15px;
 }
 .testimonials .item .source {
@@ -410,7 +410,7 @@ iframe {
   font-weight: 600;
 }
 .testimonials .item .source .title {
-  color: #FF4000;
+  color: #A9A9F5;
 }
 /* Education section */
 .education .item {
@@ -426,12 +426,12 @@ iframe {
 .education .item .university {
   font-family: "Lato", arial, sans-serif;
   font-size: 13px;
-  color: #FFFFFF;
+  color: #FF8000;
   font-weight: 600;
   padding-left: 25px;
 }
 .education .item .university .year {
-  color: #FFFFFF;
+  color: #A9A9F5;
   font-weight: 500;
 }
 /* Language Section */
