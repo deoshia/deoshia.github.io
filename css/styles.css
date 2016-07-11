@@ -179,7 +179,7 @@ iframe {
 .section .heading {
   margin-top: 0;
   margin-bottom: 30px;
-  color: #FF4000;
+  color: #FFFFFF;
   font-size: 24px;
 }
 .section .content .more-link .fa {
@@ -426,12 +426,12 @@ iframe {
 .education .item .university {
   font-family: "Lato", arial, sans-serif;
   font-size: 13px;
-  color: #99FF1B;
+  color: #FFFFFF;
   font-weight: 600;
   padding-left: 25px;
 }
 .education .item .university .year {
-  color: #99FF1B;
+  color: #FFFFFF;
   font-weight: 500;
 }
 /* Language Section */
@@ -439,7 +439,7 @@ iframe {
   margin-bottom: 15px;
 }
 .languages .item .title {
-  color: #778492;
+  color: #FFFFFF;
 }
 .languages .item .level {
   color: #999;
@@ -448,7 +448,7 @@ iframe {
   margin-bottom: 0;
 }
 .languages .item .fa {
-  color: #79d19a;
+  color: #9F81F7;
 }
 /* Blog Section */
 .blog .item {
