@@ -10,7 +10,7 @@
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #99FF1B;
-  background: #4A5938;
+  background: #A9A9F5;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -179,7 +179,7 @@ iframe {
 .section .heading {
   margin-top: 0;
   margin-bottom: 30px;
-  color: #FFFFFF;
+  color: #A9A9F5;
   font-size: 24px;
 }
 .section .content .more-link .fa {
