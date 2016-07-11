@@ -9,8 +9,8 @@
 /* ======= Base ======= */
 body {
   font-family: 'Lato', arial, sans-serif;
-  color: #FF8000;
-  background: #FF8000;
+  color: #070719;
+  background: #070719;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -134,7 +134,7 @@ iframe {
   margin-top: 30px;
 }
 .header .profile-content .desc {
-  color: #FF8000;
+  color: #2d844e;
   font-family: "Lato", arial, sans-serif;
   font-weight: 400;
   font-size: 24px;
@@ -173,7 +173,7 @@ iframe {
   margin-bottom: 30px;
 }
 .section .section-inner {
-  background: #070719;
+  background: #2d844e;
   padding: 30px;
 }
 .section .heading {
