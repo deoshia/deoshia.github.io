@@ -23,7 +23,7 @@ h5,
 h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  color: #FF8000;
+  color: #A9A9F5;
 }
 a {
   color: #FF8000;
@@ -95,7 +95,7 @@ a.btn-cta-secondary:hover,
 }
 a.dotted-link {
   border-bottom: 1px dotted #A9A9F5;
-  color: #FF8000;
+  color: #A9A9F5;
 }
 a.dotted-link:hover {
   text-decoration: none;
