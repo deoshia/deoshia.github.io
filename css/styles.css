@@ -60,9 +60,9 @@ a.btn:focus {
 }
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #FF8000;
+  background: #A9A9F5;
   border: 1px solid #FF8000;
-  color: #FF8000;
+  color: #A9A9F5;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -74,7 +74,7 @@ a.btn-cta-primary:hover,
 }
 a.btn-cta-secondary,
 .btn-cta-secondary {
-  background: #479FC8;
+  background: #A9A9F5;
   border: 1px solid #479FC8;
   color: #A9A9F5;
   font-weight: 600;
@@ -339,7 +339,7 @@ iframe {
 /* Info Section */
 .info .fa {
   margin-right: 15px;
-  color: #FF8000;
+  color: #A9A9F5;
 }
 .info .fa.fa-envelope-o {
   font-size: 14px;
