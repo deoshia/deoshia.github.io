@@ -305,17 +305,17 @@ iframe {
   line-height: 1.5;
 }
 .experience .item .title .place {
-  color: #A9A9F5;
+  color: #FF8000;
   font-weight: normal;
 }
 .experience .item .title .place a {
-  color: #A9A9F5;
+  color: #FF8000;
 }
 .experience .item .title .place a:hover {
-  color: #666666;
+  color: #A9A9F5;
 }
 .experience .item .title .year {
-  color: #A9A9F5;
+  color: #FF8000;
   font-weight: normal;
 }
 /* Git section */
