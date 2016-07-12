@@ -23,10 +23,10 @@ h5,
 h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  color: #A9A9F5;
+  color: #FF8000;
 }
 a {
-  color: #A9A9F5;
+  color: #FF8000;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -62,7 +62,7 @@ a.btn-cta-primary,
 .btn-cta-primary {
   background: #FF8000;
   border: 1px solid #FF8000;
-  color: #A9A9F5;
+  color: #FF8000;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -70,13 +70,13 @@ a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
   background: #FF8000;
   border: 1px solid #FF8000;
-  color: #A9A9F5;
+  color: #FF8000;
 }
 a.btn-cta-secondary,
 .btn-cta-secondary {
   background: #479FC8;
   border: 1px solid #479FC8;
-  color: #fff;
+  color: #FF8000;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -84,10 +84,10 @@ a.btn-cta-secondary:hover,
 .btn-cta-secondary:hover {
   background: #3893bd;
   border: 1px solid #3893bd;
-  color: #fff;
+  color: #FF8000;
 }
 .text-highlight {
-  color: #99FF1B;
+  color: #FF8000;
 }
 .label-theme {
   background: #3AAA64;
