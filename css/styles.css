@@ -34,8 +34,8 @@ a {
 }
 a:hover {
   text-decoration: underline;
-  color: #A9A9F5;
-  color: #A9A9F5;
+  color: #FF8000;
+  color: #FF8000;
 }
 a:focus {
   text-decoration: none;
@@ -61,15 +61,15 @@ a.btn:focus {
 a.btn-cta-primary,
 .btn-cta-primary {
   background: #FF8000;
-  border: 1px solid #54ba4e;
+  border: 1px solid #FF8000;
   color: #A9A9F5;
   font-weight: 600;
   text-transform: uppercase;
 }
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
-  background: #49ac43;
-  border: 1px solid #49ac43;
+  background: #FF8000;
+  border: 1px solid #FF8000;
   color: #A9A9F5;
 }
 a.btn-cta-secondary,
@@ -95,11 +95,11 @@ a.btn-cta-secondary:hover,
 }
 a.dotted-link {
   border-bottom: 1px dotted #A9A9F5;
-  color: #A9A9F5;
+  color: #FF8000;
 }
 a.dotted-link:hover {
   text-decoration: none;
-  color: #A9A9F5;
+  color: #FF8000;
 }
 /*
 iframe {
@@ -128,7 +128,7 @@ iframe {
   margin-right: 30px;
 }
 .header .profile-content .name {
-  color: #A9A9F5;
+  color: #FF8000;
   font-size: 38px;
   margin-bottom: 5px;
   margin-top: 30px;
@@ -179,7 +179,7 @@ iframe {
 .section .heading {
   margin-top: 0;
   margin-bottom: 30px;
-  color: #A9A9F5;
+  color: #FF8000;
   font-size: 24px;
 }
 .section .content .more-link .fa {
@@ -339,7 +339,7 @@ iframe {
 /* Info Section */
 .info .fa {
   margin-right: 15px;
-  color: #00FF00;
+  color: #FF8000;
 }
 .info .fa.fa-envelope-o {
   font-size: 14px;
