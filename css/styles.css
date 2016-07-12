@@ -69,14 +69,14 @@ a.btn-cta-primary,
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
   background: #FF8000;
-  border: 1px solid #FF8000;
+  border: 1px solid #A9A9F5;
   color: #FF8000;
 }
 a.btn-cta-secondary,
 .btn-cta-secondary {
   background: #479FC8;
   border: 1px solid #479FC8;
-  color: #FF8000;
+  color: #A9A9F5;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -84,10 +84,10 @@ a.btn-cta-secondary:hover,
 .btn-cta-secondary:hover {
   background: #3893bd;
   border: 1px solid #3893bd;
-  color: #FF8000;
+  color: #A9A9F5;
 }
 .text-highlight {
-  color: #FF8000;
+  color: #A9A9F5;
 }
 .label-theme {
   background: #3AAA64;
@@ -99,7 +99,7 @@ a.dotted-link {
 }
 a.dotted-link:hover {
   text-decoration: none;
-  color: #FF8000;
+  color: #A9A9F5;
 }
 /*
 iframe {
