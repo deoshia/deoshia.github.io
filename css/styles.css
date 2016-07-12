@@ -305,17 +305,17 @@ iframe {
   line-height: 1.5;
 }
 .experience .item .title .place {
-  color: #999;
+  color: #FF8000;
   font-weight: normal;
 }
 .experience .item .title .place a {
-  color: #999;
+  color: #FF8000;
 }
 .experience .item .title .place a:hover {
   color: #666666;
 }
 .experience .item .title .year {
-  color: #999;
+  color: #FF8000;
   font-weight: normal;
 }
 /* Git section */
@@ -410,7 +410,7 @@ iframe {
   font-weight: 600;
 }
 .testimonials .item .source .title {
-  color: #A9A9F5;
+  color: #FF8000;
 }
 /* Education section */
 .education .item {
